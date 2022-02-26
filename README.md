@@ -1,5 +1,5 @@
 ## Hi there, I'm Shivam 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/0xsharma?style=social)](https://twitter.com/intent/follow?screen_name=qedk_) ![GitHub User's stars](https://img.shields.io/github/stars/0xsharma?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/0xsharma?style=social)](https://twitter.com/intent/follow?screen_name=0xsharma) ![GitHub User's stars](https://img.shields.io/github/stars/0xsharma?style=social)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xsharma&label=Profile%20views&color=0e75b6&style=flat)
 <!--
