@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Email me](mailto:shivam691999@gmail.com) or [Twitter DMs](https://twitter.com/0xsharma) 📬
 - ⚡ Fun fact: I love to play drums 🥁 and workout 🏋️‍♀️
 
-<p align="center">
+### 📫 Like to meet me?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/0xsharma/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+<br/>
+<p>
     <img
         height="180em"
         src="https://github-readme-stats.vercel.app/api?username=0xsharma&show_icons=true&hide_border=true&theme=tokyonight"
